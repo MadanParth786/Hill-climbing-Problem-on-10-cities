@@ -29,7 +29,7 @@ def getneibours(solution):
             neibour[j] =solution[i]
             neibours.append(neibour)
             
-    return neibours       
+     return neibours       
         
 
 def getbestsoln(tsp,neibours):
